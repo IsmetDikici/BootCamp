@@ -32,6 +32,8 @@ namespace Methods
             sepetManager.Ekle(urun1);
             sepetManager.Ekle(urun2);
 
+
+
         }
     }
 }
